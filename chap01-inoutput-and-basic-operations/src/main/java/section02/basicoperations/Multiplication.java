@@ -2,7 +2,7 @@ package section02.basicoperations;
 
 import java.util.Scanner;
 
-public class Multilication {
+public class Multiplication {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
