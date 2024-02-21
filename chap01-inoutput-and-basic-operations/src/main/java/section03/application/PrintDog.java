@@ -1,2 +1,11 @@
-package section03.application;public class PrintDog {
+package section03.application;
+
+public class PrintDog {
+    public static void main(String[] args) {
+        System.out.println("|\\_/|");
+        System.out.println("|q p|   /}");
+        System.out.println("( 0 )\"\"\"\\");
+        System.out.println("|\"^\"`    |");
+        System.out.println("||_/=\\\\__|");
+    }
 }

@@ -1,2 +1,11 @@
-package section03.application;public class PrintCat {
+package section03.application;
+
+public class PrintCat {
+    public static void main(String[] args) {
+        System.out.println("\\    /\\");
+        System.out.println(" )  ( \')");
+        System.out.println("(  /  )");
+        System.out.println(" \\(__)|");
+
+    }
 }
